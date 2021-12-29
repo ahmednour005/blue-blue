@@ -1,0 +1,218 @@
+.single-slide-item h1{
+    text-align: right!important;
+}
+.single-slide-item p{
+    text-align: right!important;
+}
+/* .main-btn{
+    float: right!important;
+} */
+.breadcroumb-area .breadcroumb-title h1{
+    text-align: right!important;
+}
+h1,h2,h3,h4,h5,h6,p,a,.panel-body,ul li{
+    font-family: 'Cairo', sans-serif!important;
+    direction: rtl;
+    text-align: right;
+    line-height: normal;
+}
+.section-title h6:before{
+    right: 0!important;
+}
+.breadcroumb-area h6{
+    text-align: right!important;
+}
+.single-facility-area h4,.team-content .team-subtitle p,.single-counter-box p.counter-number,.single-counter-box h6,.testimonial-area .section-title h2,.contact-us-inner h5,.contact-section .section-title h2,.section-title p{
+    text-align: center!important;
+}
+.breadcroumb-area .breadcroumb-title h1:before{
+    left:auto !important;
+    right: 10px !important;
+}
+.breadcroumb-area .breadcroumb-title h1:after{
+    left:auto !important;
+    right: 80px !important;
+
+}
+.section-title h6{
+    text-align: right !important;
+    padding-left:0px!important;
+    
+}
+.section-title h6:before{
+    left: auto !important;
+    
+}
+
+.key-feature{
+    text-align: right!important;
+    direction: rtl;
+}
+.key-feature h4{
+    text-align: right!important;
+}
+.about-icon{
+    text-align: right;
+}
+
+.team-content .team-title a
+{
+    text-align: right !important;
+}
+p.highlight
+{
+    text-align: right !important;
+}
+.feature-content
+{
+    text-align: right !important;
+}
+.single-client-item p
+{
+    text-align: right !important;
+}
+.author-desc
+{
+    text-align: right !important;
+}
+.subscribe-form
+{
+    text-align: right !important;
+}
+.subscribe-form input
+{
+    text-align: right !important;
+
+}
+.footer-area ul li a{
+    text-align: right !important;
+}
+.footer-up ul li a i{
+    float: right;
+    margin-left:15px ;
+}
+.footer-area p
+{
+    text-align: center !important;
+}
+.footer-up .social-area i
+{
+    margin-right: 0 !important;
+    margin-left: 25px !important;
+}
+/* .logo img
+{
+    margin-left: 80px !important;
+} */
+.about-icon img
+{
+    margin-left: 170px !important;
+}
+.about-content-wrapper p
+
+{
+    text-align: right !important;
+}
+.text-center .section-title h6
+{
+    text-align: center !important;
+}
+/* .section-title h2
+
+{
+    text-align: center !important;
+
+} */
+.single-price-item .main-btn
+{
+    margin: 30px 90px !important;
+}
+
+input, textarea, select
+{
+    text-align: right !important;
+}
+.section-title p{
+    text-align: right!important;
+}
+#service-1 > div > div:nth-child(1) > div > div > h2{
+    text-align: center!important;
+}
+#service-1 > div > div:nth-child(1) > div > div > h6{
+    padding-right: 0px!important;
+}
+.serv-icon{
+    text-align: right;
+}
+.styled-faq .panel .panel-heading h6 a i{
+    float: left!important;
+}
+.panel-body{
+    text-align: right!important;
+}
+body > div.facility-area.dark-bg.section-padding > div > div:nth-child(1) > div > div > h2{
+    text-align: center!important;
+}
+body > div.facility-area.dark-bg.section-padding > div > div:nth-child(1) > div > div > h6{
+    padding-right: 0px!important;
+}
+body > footer  ul{
+    text-align: right!important;
+}
+.footer-up .logo{
+    margin: auto;
+    
+}
+.single-price-item h4,.single-price-item p{
+    text-align: center;
+}
+.pricing-section .section-title h2{
+    text-align: center;
+}
+.section-title h2{
+    text-align: center;
+}
+body > div.about-area.section-padding > div > div > div:nth-child(1) > div > div.section-title > h6,
+body > div.chooseus-area.section-padding > div > div > div:nth-child(2) > div.section-title > h6,
+body > div.about-area.section-padding.pt-120.pb-0 > div > div > div.col-lg-6.col-md-12.col-sm-12.wow.fadeInLeft > div > div > h6,
+body > div.skill-area > div.skill-content > div.section-title.mb-30 > h6,
+body > div.faq-area.section-padding > div > div > div:nth-child(2) > div.section-title > h6,
+body > div.homepage-slides.owl-carousel.owl-loaded.owl-drag > div.owl-stage-outer > div > div:nth-child(3) > div > div.hero-area-content > div > div > div > div > h6{
+    padding-right: 100px!important;
+}
+.homepage-slides .section-title h6{
+    padding-right: 100px!important;
+}
+.single-feature-item .num{
+    float: right;
+}
+.feature-content{
+    padding-left: 0px!important;
+    padding-right: 70px!important;
+}
+.contact-us-inner h5, .contact-us-inner p{
+    text-align: center!important;
+}
+
+.about-icon i{
+	
+float: right;}
+
+.about-content-wrapper .section-title h2{
+    text-align: right!important;
+}
+.single-counter-box .counter-number{
+    line-height: 30px!important;
+}
+.author-desc span{
+    font-family: 'Cairo', sans-serif!important;
+}
+.info-content-area .section-title h2{
+    text-align: right;
+}
+.contact-form-wrapper .section-title p,.skill-area .skill-content p{
+    text-align: center!important;
+}
+.faq-area .section-title h2{
+    text-align: right!important;
+}
